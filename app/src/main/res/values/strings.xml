@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeofenceApp</string>
+    <string name="channel1_name">Location Notification Channel</string>
+    <string name="channel1_description">Tells user app is running location monitoring in foreground</string>
+    <string name="channel1_id">LocationNotificationChannel</string>
+    <string name="channel2_name">Geofence Notification Channel</string>
+    <string name="channel2_description">Tells user app is running geofence</string>
+    <string name="channel2_id">GeofenceNotificationChannel</string>
+    <string name="btn_location_monitoring">Location Monitoring</string>
+    <string name="btn_geofence_monitoring">Geofence Monitoring</string>
+</resources>
